@@ -1,9 +1,9 @@
 # HP 800G1DM
 ### 此EFI在[Road](https://github.com/Road-tech/Hackintosh_HP-800G1_I7-4770hq_OC?tab=readme-ov-file)的基础上修改升级
 
-## 使用前补足三码
-## 使用前补足三码
-## 使用前补足三码
+**使用前补足三码**
+**使用前补足三码**
+**使用前补足三码**
 
 ### 配置单
 
@@ -18,7 +18,6 @@
 ### 驱动（引导使用Opencore1.0）
 
 ![驱动](https://github.com/Orangemiao/Pic/blob/main/48213fa2-d7b7-4a4a-a83d-b1a12c4884ef.png)
-
 
 
 ### 已知问题
